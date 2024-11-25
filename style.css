@@ -19,3 +19,14 @@
   width: 225px;
   margin: auto;
 }
+
+#restartBtn {
+  cursor: pointer;
+  font-size: 20px;
+  background-color: rgb(221, 41, 89);
+  color: white;
+  border-radius: 15px;
+  padding: 10px;
+  border: 1px solid rgb(221, 41, 89);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
